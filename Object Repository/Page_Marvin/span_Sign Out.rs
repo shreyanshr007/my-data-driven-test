@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>7c35cf3a-113b-42cf-8e7b-4e500b543cd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.StyledP-lsq-marvin-header-app__sc-4puckp-5.elBIxk.lsq-marvin-header-signout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6da59cde-76bc-457b-b83e-1d1a1c1e56d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>lsq-marvin-header-signout</value>
+      <webElementGuid>514f6c4e-a000-40fb-861a-9905c4ffe81e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>StyledP-lsq-marvin-header-app__sc-4puckp-5 elBIxk lsq-marvin-header-signout</value>
+      <webElementGuid>def51d26-01b5-4a1f-856e-c9a7d23cb26f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>489e83b0-58c1-4fd7-9ee2-690bcbc0ab77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-kgflAQ bnGynO lsq-marvin-home-app&quot;]/div[@class=&quot;StyledHomeContainer-lsq-marvin-home-app__sc-ave115-0 jdIKHg lsq-marvin-home-container&quot;]/div[@class=&quot;LSQMarvinHeaderContainer-lsq-marvin-home-app__sc-1q8cpul-0 czeoju lsq-marvin-header-app&quot;]/div[@class=&quot;ProfileMenuContainer-lsq-marvin-header-app__sc-4puckp-1 bsnAxT lsq-marvin-profile-dropdown&quot;]/div[@class=&quot;StyledWrapper-lsq-marvin-header-app__sc-4puckp-2 hVMrRj&quot;]/div[@class=&quot;DesktopDiv-lsq-marvin-header-app__sc-4puckp-21 cYHpVe&quot;]/div[@class=&quot;ProfileColumnElement-lsq-marvin-header-app__sc-4puckp-4 jbEjUb lsq-marvin-app-profile-set&quot;]/span[@class=&quot;StyledP-lsq-marvin-header-app__sc-4puckp-5 elBIxk lsq-marvin-header-signout&quot;]</value>
+      <webElementGuid>454a4e8a-e940-4dcf-84a4-49a8e071956c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div[3]/div/div/span</value>
+      <webElementGuid>298158d4-88c1-4824-95e4-dbb8d8d6b26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark'])[1]/following::span[1]</value>
+      <webElementGuid>44215a7e-3fca-4cda-85b1-4787e7022f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[1]/following::span[1]</value>
+      <webElementGuid>41965fcd-0936-41c0-a799-ccf393945e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Theme'])[2]/preceding::span[1]</value>
+      <webElementGuid>bb98dde3-6277-4963-8a36-500670c0ee02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[2]/preceding::span[3]</value>
+      <webElementGuid>c4cc4661-2602-4c23-8967-5f8a08e3c780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>e3a1538e-9969-465c-824e-e276d585fd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>f5114989-8219-449d-8843-17ec4525d4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>99e771a1-b536-457c-b939-daaede490af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

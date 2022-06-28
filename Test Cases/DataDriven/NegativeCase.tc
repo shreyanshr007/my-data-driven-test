@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NegativeCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>932edbb9-13fd-4a8f-89f4-b4e4f9adbef5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78213e42-fe3f-4e8c-ad58-a47707cfe7ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78213e42-fe3f-4e8c-ad58-a47707cfe7ee</id>
+      <masked>true</masked>
+      <name>InvUsername</name>
+   </variable>
+</TestCaseEntity>

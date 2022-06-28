@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This Email Address does not exist in the system</name>
+   <tag></tag>
+   <elementGuidId>b1ef9b83-5ae3-45e0-be8a-c3731834dd86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.NotificationMessage-lsq-marvin-notification-comp__sc-1gt8ygv-1.huJBCp.marvin-notification-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='notification-1655705442859']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fe4f8185-11f1-418b-b388-d9dfe7aa4879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NotificationMessage-lsq-marvin-notification-comp__sc-1gt8ygv-1 huJBCp marvin-notification-message</value>
+      <webElementGuid>2e380001-182f-493e-b27a-fd25eaa05808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This Email Address does not exist in the system.</value>
+      <webElementGuid>7e8d2deb-d6fe-4ddb-b1bb-af5a791041cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notification-1655705442859&quot;)/p[@class=&quot;NotificationMessage-lsq-marvin-notification-comp__sc-1gt8ygv-1 huJBCp marvin-notification-message&quot;]</value>
+      <webElementGuid>2f8f4cc9-79ad-4a8e-acaf-4eaf944b13ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notification-1655705442859']/p</value>
+      <webElementGuid>b559fa51-accf-435a-9b45-385d1b585384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close notification'])[1]/preceding::p[1]</value>
+      <webElementGuid>f9b660b5-dff5-4d52-baab-70bdba1ba272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This Email Address does not exist in the system.']/parent::*</value>
+      <webElementGuid>1d8eaf4c-48bb-4b7c-8699-3564aad2663d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>299855c3-9eb1-4074-a230-a586e4ec1d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This Email Address does not exist in the system.' or . = 'This Email Address does not exist in the system.')]</value>
+      <webElementGuid>239e0e9c-e0a5-443f-adcc-289dc4f6a557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
